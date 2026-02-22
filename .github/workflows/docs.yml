@@ -2,8 +2,8 @@ name: Documentation
 on:
   push:
     branches:
-      - master
       - main
+      
 permissions:
   contents: read
   pages: write
