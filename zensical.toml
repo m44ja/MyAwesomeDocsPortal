@@ -48,7 +48,8 @@ nav = [
   { "Home" = "index.md"},
   { "Markdown" = [
     "markdown/home.md",
-    "markdown/markdown.md"
+    "markdown/markdown.md",
+    "markdown/stuff.md"
   ]}
 ]
 
