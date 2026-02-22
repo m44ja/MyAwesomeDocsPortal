@@ -2,7 +2,7 @@
 icon: simple/markdown
 ---
 
-# Markdown je res kul
+# Markdown je kr kul
 
 ## Headers
 ```
