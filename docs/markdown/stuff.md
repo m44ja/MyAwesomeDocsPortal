@@ -2,6 +2,9 @@
 icon: "lucide/rocket"
 ---
 
+
+fdghdfhgdfsgh
+
 # Get started
 
 For full documentation visit [zensical.org](https://zensical.org/docs/).
